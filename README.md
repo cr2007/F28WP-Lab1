@@ -14,8 +14,8 @@ This lab is designed to give you practice setting-up, editing, developing and ma
 
 #### Progress:
 
-![33%](https://progress-bar.dev/33)
+![40%](https://progress-bar.dev/40)
 
-- [ ] Part 1
+- [x] Part 1
 - [ ] Part 2
 - [ ] Part 3
