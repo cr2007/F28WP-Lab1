@@ -14,7 +14,7 @@ This lab is designed to give you practice setting-up, editing, developing and ma
 
 #### Progress:
 
-![40%](https://progress-bar.dev/40)
+![47%](https://progress-bar.dev/47)
 
 - [x] Part 1 - GitHub Pages
 - [ ] Part 2 - Jekyll and GitHub Pages
