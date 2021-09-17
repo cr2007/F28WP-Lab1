@@ -1,7 +1,7 @@
 <div align="center">
-    <a href="https://cr2007.github.io">
-        <h1>cr2007.github.io</h1>
-    </a>
+   
+# [cr2007.github.io](https://cr2007.github.io)
+    
 </div>
 
 ## Course: Web Programming ([F28WP](https://www.hw.ac.uk/documents/pams/202122/F28WP_202122.pdf))
