@@ -10,6 +10,8 @@
 
 This lab is designed to give you practice setting-up, editing, developing and maintain a GitHub repository.
 
+![](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIE1hcmtcbiAgICBcIlBhcnQgMlwiIDogMi41XG4gICAgXCJQYXJ0IDNcIiA6IDIuNVxuICAgIFwiUGFydCAxXCIgOiA1XG4iLCJtZXJtYWlkIjp7fSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
+
 ---
 
 #### Progress:
