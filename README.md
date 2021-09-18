@@ -13,7 +13,9 @@
 <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=git&logoColor=white&color=F05032">
 </a>
 <img alt="Markdown" title="Markup Language to format text" src="https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=markdown&logoColor=white&color=000000">
+<a href="https://github.com/jekyll/jekyll">
 <img alt="Jekyll" title="A blog-aware, static website generator in Ruby" src="https://img.shields.io/badge/Jekyll-informational?style=flat-sqaure&logo=jekyll&logoColor=white&color=CC0000">
+</a>
 </div>
 
 ### [Lab 1](Lab1%20GitHub.pdf): Git and GitHub
