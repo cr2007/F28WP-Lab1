@@ -22,7 +22,7 @@
 
 This lab is designed to give you practice setting-up, editing, developing and maintain a GitHub repository.
 
-Created using HTML, CSS, and [Markdown](https://www.markdownguide.org/) (via Jekyll)
+Created using <span title="HyperText Markup Language">HTML</span>, <span title="Cascading Style Sheets">CSS</span>, and <a title="Simple, and easy-to-use markup language" href="https://www.markdownguide.org/">Markdown</a> (via <a title="A blog-aware, static website generator in Ruby" href="https://jekyllrb.com/">Jekyll</a>)
 
 ![](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIE1hcmtcbiAgICBcIlBhcnQgMlwiIDogMi41XG4gICAgXCJQYXJ0IDNcIiA6IDIuNVxuICAgIFwiUGFydCAxXCIgOiA1XG4iLCJtZXJtYWlkIjp7fSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
 
