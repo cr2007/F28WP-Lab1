@@ -24,7 +24,9 @@ This lab is designed to give you practice setting-up, editing, developing and ma
 
 Created using <span title="HyperText Markup Language">HTML</span>, <span title="Cascading Style Sheets">CSS</span>, and <a title="Simple, and easy-to-use markup language" href="https://www.markdownguide.org/">Markdown</a> (via <a title="A blog-aware, static website generator in Ruby" href="https://jekyllrb.com/">Jekyll</a>)
 
-![Pie Chart showing the breakdown on this Lab](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIFBldHMgYWRvcHRlZCBieSB2b2x1bnRlZXJzXG4gICAgXCJQYXJ0IDFcIiA6IDVcbiAgICBcIlBhcnQgMlwiIDogMi41XG4gICAgXCJQYXJ0IDNcIiA6IDIuNVxuICAgICAgICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
+![Pie Chart showing the breakdown on this Lab](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIEYyOFdQIExhYiAxIE1hcmsgQnJlYWtkb3duXG4gICAgXCJQYXJ0IDFcIiA6IDVcbiAgICBcIlBhcnQgMlwiIDogMi41XG4gICAgXCJQYXJ0IDNcIiA6IDIuNVxuICAgICAgICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
+
+<!-- https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoicGllIHRpdGxlIEYyOFdQIExhYiAxIE1hcmsgQnJlYWtkb3duXG4gICAgXCJQYXJ0IDFcIiA6IDVcbiAgICBcIlBhcnQgMlwiIDogMi41XG4gICAgXCJQYXJ0IDNcIiA6IDIuNVxuICAgICAgICAgICAgIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0 -->
 
 ---
 
