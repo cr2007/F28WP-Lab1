@@ -59,6 +59,10 @@ ul.posts li {
   }
 
   a {
-    color: rgb(251, 250, 245);
+    color: #a6fff6;
+  }
+
+  p {
+    color: rgb(251, 250, 245)
   }
 }
