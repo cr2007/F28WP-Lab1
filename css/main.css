@@ -50,3 +50,15 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: white;
+  }
+
+  a {
+    color: rgb(251, 250, 245);
+  }
+}
