@@ -65,4 +65,8 @@ ul.posts li {
   p {
     color: rgb(251, 250, 245)
   }
+
+  nav a, footer a {
+    color: rgb(251, 250, 245);
+  }
 }
