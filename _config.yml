@@ -1,4 +1,5 @@
 name: web programming
-source: F28WP-Lab1
+baseurl: /F28WP-Lab1
+url: https://cr2007.github.io
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
